@@ -1,0 +1,6 @@
+Sveiki! Šeit es pastastīšu īsu instrukciju par darbu:
+
+1) Darba kods ir apskatams iekš: Homework-4-Job git platformas Stixych konta krātuves: to var atrast pēc "src/test/java/BtaPortalTests.java" ceļa.
+2) Kodu esmu rakstījis un testējis iekš Intellij IDEA 2022.gada izlaišanas versijas platformas.
+3) Ja palaižot kodu, netiks saprasts, kā notiek konkrētas koda daļās, būtu vēlams pēc vai pirms konkrēta uzdevuma ieviest "sleep(1000...10000);" koda rindiņu, kuras funkcijas mērķis ir, lai programmu uz kādu Jūs definēto ar cipariem milisekundēs laiku apstātu un testētājs varēs saprast, kas un kur notiek.
+4) Iekš tā pati krātuves "Homework-4-Job" ir arī "pom.xml" fails, kurā var atrast nepieciešamas kodam bibliotēkas.
